@@ -1,2 +1,5 @@
 # Hello-World
-New Repository
+
+Hello my name is Emmanuel Simeus Jr
+
+I like craft beer, snowbaording and working out
